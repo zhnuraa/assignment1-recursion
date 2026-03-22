@@ -1,1 +1,2 @@
-# assignment1-recursion
+# Nurassyl Zhumagul, IT-2501
+jkjh
