@@ -1,11 +1,11 @@
 # Nurassyl Zhumagul, IT - 2501
-<img width="1162" height="424" alt="image" src="https://github.com/user-attachments/assets/ce77e247-9f41-42be-acf9-f5fc6f85fec4" /> #1
-<img width="1244" height="484" alt="image" src="https://github.com/user-attachments/assets/77ef2673-00ab-49f5-a585-a7fd6c216a1b" /> #2
-<img width="1247" height="504" alt="image" src="https://github.com/user-attachments/assets/6665b9b8-a074-47b9-bd8a-33770274224d" /> #3
-<img width="1141" height="385" alt="image" src="https://github.com/user-attachments/assets/226140d2-8520-4070-b8d6-963dff2cf8b9" /> #4
-<img width="1246" height="487" alt="image" src="https://github.com/user-attachments/assets/144821be-c3eb-4128-bb66-27cb6367058b" /> #5
-<img width="1216" height="444" alt="image" src="https://github.com/user-attachments/assets/52f14ee7-bb93-46cb-8633-3ffb33dc1c92" /> #6
-<img width="1141" height="483" alt="image" src="https://github.com/user-attachments/assets/7d354119-d3ef-488c-b255-4601f399bb01" /> #7
-<img width="1150" height="435" alt="image" src="https://github.com/user-attachments/assets/b5a33ed5-eadb-4ac8-8a6c-f19be957b4c4" /> #8
-<img width="1128" height="333" alt="image" src="https://github.com/user-attachments/assets/a05a3185-9918-4b76-a6da-b8b0947de757" /> #9
-<img width="1140" height="431" alt="image" src="https://github.com/user-attachments/assets/384dbb34-3701-43f4-bc66-e20944261b1e" /> # 10
+1<img width="1162" height="424" alt="image" src="https://github.com/user-attachments/assets/ce77e247-9f41-42be-acf9-f5fc6f85fec4" /> 
+2<img width="1244" height="484" alt="image" src="https://github.com/user-attachments/assets/77ef2673-00ab-49f5-a585-a7fd6c216a1b" /> 
+3<img width="1247" height="504" alt="image" src="https://github.com/user-attachments/assets/6665b9b8-a074-47b9-bd8a-33770274224d" /> 
+4<img width="1141" height="385" alt="image" src="https://github.com/user-attachments/assets/226140d2-8520-4070-b8d6-963dff2cf8b9" /> 
+5<img width="1246" height="487" alt="image" src="https://github.com/user-attachments/assets/144821be-c3eb-4128-bb66-27cb6367058b" /> 
+6<img width="1216" height="444" alt="image" src="https://github.com/user-attachments/assets/52f14ee7-bb93-46cb-8633-3ffb33dc1c92" /> 
+7<img width="1141" height="483" alt="image" src="https://github.com/user-attachments/assets/7d354119-d3ef-488c-b255-4601f399bb01" /> 
+8<img width="1150" height="435" alt="image" src="https://github.com/user-attachments/assets/b5a33ed5-eadb-4ac8-8a6c-f19be957b4c4" /> 
+9<img width="1128" height="333" alt="image" src="https://github.com/user-attachments/assets/a05a3185-9918-4b76-a6da-b8b0947de757" /> 
+10<img width="1140" height="431" alt="image" src="https://github.com/user-attachments/assets/384dbb34-3701-43f4-bc66-e20944261b1e" /> 
